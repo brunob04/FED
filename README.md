@@ -227,8 +227,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-  ![Screenshot 2022-10-06 at 12 14 55](https://user-images.githubusercontent.com/112801176/194288014-ebd9bc75-a95f-4255-8857-0abc2ddd3fd9.jpg)
+  
+![Screenshot 2022-10-06 at 12 14 55](https://user-images.githubusercontent.com/112801176/194288014-ebd9bc75-a95f-4255-8857-0abc2ddd3fd9.jpg)
 
 ![Screenshot 2022-10-06 at 12 15 07](https://user-images.githubusercontent.com/112801176/194288031-f8ab9c04-23bb-4a58-8556-9c8050748a8d.jpg)
 
@@ -244,7 +244,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit was lastig/Is niet gelukt:
   In het laaste voortgansgesprek zei de docent dat ik eigenlijk mijn nav met javascript moet doen. ik heb toen echt een hele dag eraan gezetten en tutorials gekeken maar het is mij uiteindelijk toch niet gelukt. Wel heb ik een filter optie gemaakt met javascript (wel doormiddel van een youtube tutorial want zelf lukte het me echt niet)
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
