@@ -35,11 +35,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Ik ga de website van nike namaken https://www.nike.com/nl/en/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  HomePage
+  ![Screenshot 2022-10-06 at 11 57 07](https://user-images.githubusercontent.com/112801176/194284566-da0e8907-59e3-4f09-a35d-0770ef3bd32f.jpg)
+  <img src="readme-images/scr" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
