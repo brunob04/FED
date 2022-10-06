@@ -40,12 +40,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   HomePage
   ![Screenshot 2022-10-06 at 11 57 07](https://user-images.githubusercontent.com/112801176/194284566-da0e8907-59e3-4f09-a35d-0770ef3bd32f.jpg)
-  <img src="readme-images/scr" width="375px" alt="omschrijving van de pagina">
+ ![Screenshot 2022-10-06 at 11 57 14](https://user-images.githubusercontent.com/112801176/194284679-fa0735e6-28bb-4478-aad1-91c33d6d42fb.jpg)
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+ en de pagina van Men's Trainers & Shoes 
+  
+ ![Screenshot 2022-10-06 at 11 57 31](https://user-images.githubusercontent.com/112801176/194284765-0261aa45-f42b-45e3-9294-398408e1bb55.jpg)
+
 </details>
 
 
@@ -59,10 +61,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  omdat mijn screenreader in het engels is en ik sommige plaatjes in het nederlands heb gezet (zoals: Schoen 1) zegt hij dat heel raar. daar moet ik dus    op gaan letten
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
