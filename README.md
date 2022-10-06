@@ -64,21 +64,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   omdat mijn screenreader in het engels is en ik sommige plaatjes in het nederlands heb gezet (zoals: Schoen 1) zegt hij dat heel raar. daar moet ik dus    op gaan letten
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  dit ging over het algemeen goed. je kan vrijwel alles makkelijk vinden en het is toegankelijk.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  dit heb ik zelf niet getest maar ik zag wel hoe andere mensen dit deden. de shocks lijken mij heel moeilijk, als je dat zelf hebt, om dan gemakkelijk een site te bezoeken of überhaupt iets te schrijven.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Die brillen hadden allemaal verschillende soorten slechtziende kenmerken. Hierbij merk je wel echt hoe moeilijk het is als een site niet goed daar op ingesteld is. 
 
 </details>
 
@@ -110,7 +104,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben opzich wel goed op weg en weet al wel wat ik wil maken en hoe ik wil dat het eruit gaat zien. vooral het responsive maken is voor mij wel echt een dingetje waar ik wat extra tijd in moet steken
 
 
   ### Agenda voor meeting
@@ -126,10 +120,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1 Ik heb vooral om hulp gevraagd en ik heb nu mijn nav bar beter kunnen maken. Ook heb ik wat flexboxen gebruikt.
+  - punt 2 Ik vroeg wat hij vind dat belangrijk is om rekening mee te houden en hij zei om ervoor te zorgen dat mijn html en css overzichterlijk is en niet dat alles door elkaar staat zonder enige echte volgorde
+  
 
 </details>
 
@@ -143,8 +136,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik kon er deze dag helaas niet bij zijn. Ik heb overigens wel verder gewerkt aan mijn site door middel van de tips en tricks die ik vorige week geleerd had van de studentassisent.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -159,10 +151,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - punt 1 n.v.t
+  - punt 2 n.v.t
+ 
 
 </details>
 
@@ -176,30 +167,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Ik kwam erachter dat mijn focus button niet goed werkte en dat ie een lelijke rode kleur had. Dat is niet mooi en past ook niet bij mijn site.
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Dit ging over het algemeen goed soms leest ie alleen niet alle content die op de pagina staat maar het belangrijkste wordt wel gelezen.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Over het algemeen goed bereikbaar en duidelijk
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  was niet van toepassing
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  was niet van toepassing
 
 </details>
 
@@ -213,7 +194,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ik heb vrijwel mijn hele pagina van index.html af. alle main content die ik daar op wil staat er. dus dat scheelt.
 
 
   ### Agenda voor meeting
@@ -229,10 +210,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1 Ik moet proberen of ik mijn nav met javascript kan doen zodat ie beter accesable is
+  - punt 2 Ik moet me nu vooral gaan focussen op de content voor de 2e html pagina.
+  - punt 3 Verander de px om naar em
+
 
 </details>
 
@@ -247,16 +228,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  ![Screenshot 2022-10-06 at 12 14 55](https://user-images.githubusercontent.com/112801176/194288014-ebd9bc75-a95f-4255-8857-0abc2ddd3fd9.jpg)
 
+![Screenshot 2022-10-06 at 12 15 07](https://user-images.githubusercontent.com/112801176/194288031-f8ab9c04-23bb-4a58-8556-9c8050748a8d.jpg)
 
+![Screenshot 2022-10-06 at 12 15 33](https://user-images.githubusercontent.com/112801176/194288040-098048c4-d89b-4806-ba97-0359487f628b.jpg)
+
+![Screenshot 2022-10-06 at 12 16 24](https://user-images.githubusercontent.com/112801176/194288198-5f005af5-9591-4853-b95f-912589a44a44.jpg)
+  
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik weet nu beter hoe ik alles responsive kan maken en hoe ik dingen moet/ kan uitlijnen. Hopelijk helpt dit mij voor volgende projecten waar ik weer moet coderen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  In het laaste voortgansgesprek zei de docent dat ik eigenlijk mijn nav met javascript moet doen. ik heb toen echt een hele dag eraan gezetten en tutorials gekeken maar het is mij uiteindelijk toch niet gelukt. Wel heb ik een filter optie gemaakt met javascript (wel doormiddel van een youtube tutorial want zelf lukte het me echt niet)
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -272,8 +258,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. bron 1 Alle afbeeldingen kwamen van de nike site zelf : https://www.nike.com/nl/en/
+  2. bron 2 Een gif heb ik wel van een andere site : https://www.highsnobiety.com/p/best-rappers-sneakers-buy-online/
+  3. bron 3 ook heb ik deze video / tutorial gebruikt voor het javascript gedeelte omdat het me anders echt niet lukte: https://www.youtube.com/watch?v=kkih4C80QTk&t=1387s
 
 </details>
