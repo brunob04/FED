@@ -84,13 +84,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  
+![Screenshot 2022-10-06 at 12 36 11](https://user-images.githubusercontent.com/112801176/194292939-825a8a50-4a65-482c-9f6b-cb735de236dc.jpg)
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ![Screenshot 2022-10-06 at 12 36 23](https://user-images.githubusercontent.com/112801176/194292963-a1fd93a4-92b3-4243-8605-dcc4e6b9bee8.jpg)
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ![Screenshot 2022-10-06 at 12 39 37](https://user-images.githubusercontent.com/112801176/194292984-c0c3c5ba-40da-4787-83e0-369abd27c59e.jpg)
 
 </details>
 
