@@ -636,7 +636,7 @@ hr {
 	border: none;
 }
 
-span {
+.product-details {
 	text-align: left;
 	padding-bottom: 1rem;
 	background-color: rgb(255, 255, 255);
@@ -644,7 +644,7 @@ span {
 	margin-left: .5em;
 }
 
-span h2{
+.product-details h2 {
 	font-size: 1em;
 	font-weight: 600;
 	color: rgb(161, 21, 21);
@@ -652,7 +652,7 @@ span h2{
 	text-align: left;
 }
 
-span h3 {
+.product-details h3 {
 	font-size: 1em;
 	font-weight: 600;
 	color: rgb(10, 10, 10);
@@ -660,7 +660,7 @@ span h3 {
 	text-align: left;
 }
 
-span p {
+.product-details p {
 	font-size: 1em;
 	color: rgb(145, 145, 145);
 	margin-bottom: -1.5em;
@@ -673,7 +673,7 @@ samp {
 	font-family: 'Open Sans', sans-serif;
 }
 
-span a {
+.product-details a {
 	font-size: 1rem;
 	text-decoration: none;
 	background-color: var(--color-sec);
@@ -682,13 +682,13 @@ span a {
 	border-radius: 0.1875em;
 }
 
-span a:hover {
+.product-details a:hover {
 	background-color: var(--color-primary);
 }
 
 /*responsive*/
 @media(min-width: 68.75em) {
-	section span {
+	section .product-details {
 		width: 130%;
 		transition: 0.3s ease-in-out;
 	}
@@ -701,7 +701,7 @@ span a:hover {
 }
 
 @media(max-width: 68.75em) {
-	section span {
+	section .product-details {
 		width: 130%;
 		transition: 0.3s ease-in-out;
 	}
@@ -717,7 +717,7 @@ span a:hover {
 }
 
 @media(max-width: 34.375em) {
-	section span {
+	section .product-details {
 		width: 100%;
 		transition: 0.3s ease-in-out;
 		font-size: 1.1em;
