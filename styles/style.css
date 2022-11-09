@@ -113,6 +113,13 @@ a {
 	margin: 2em auto;
 }
 
+#gif2 {
+	width: 94%;
+	height: auto;
+	display: block;
+	margin: 2em auto;
+}
+
 #img2 {
 	width: 100%;
 	height: auto;
@@ -153,6 +160,29 @@ button {
 }
 
 #Button {
+	text-align: center;
+}
+
+button:hover {
+	background-color: rgb(91, 91, 91);
+	transition: 0.2s;
+}
+
+button:active {
+	background-color: rgb(168, 168, 168);
+	transition: 0.2s;
+}
+
+/* Responsive button */
+@media (min-width: 18em) {
+	#Button {
+		margin-bottom: 3em;
+	}
+}
+
+/* button3 */
+
+#Button3 {
 	text-align: center;
 }
 
@@ -605,7 +635,7 @@ hr {
 	border: none;
 }
 
-details {
+span {
 	text-align: left;
 	padding-bottom: 1rem;
 	background-color: rgb(255, 255, 255);
@@ -613,7 +643,7 @@ details {
 	margin-left: .5em;
 }
 
-details h2{
+span h2{
 	font-size: 1em;
 	font-weight: 600;
 	color: rgb(161, 21, 21);
@@ -621,7 +651,7 @@ details h2{
 	text-align: left;
 }
 
-details h3 {
+span h3 {
 	font-size: 1em;
 	font-weight: 600;
 	color: rgb(10, 10, 10);
@@ -629,7 +659,7 @@ details h3 {
 	text-align: left;
 }
 
-details p {
+span p {
 	font-size: 1em;
 	color: rgb(145, 145, 145);
 	margin-bottom: -1.5em;
@@ -642,7 +672,7 @@ samp {
 	font-family: 'Open Sans', sans-serif;
 }
 
-details a {
+span a {
 	font-size: 1rem;
 	text-decoration: none;
 	background-color: var(--color-sec);
@@ -651,13 +681,13 @@ details a {
 	border-radius: 0.1875em;
 }
 
-details a:hover {
+span a:hover {
 	background-color: var(--color-primary);
 }
 
 /*responsive*/
 @media(min-width: 68.75em) {
-	section details {
+	section span {
 		width: 130%;
 		transition: 0.3s ease-in-out;
 	}
@@ -670,7 +700,7 @@ details a:hover {
 }
 
 @media(max-width: 68.75em) {
-	section details {
+	section span {
 		width: 130%;
 		transition: 0.3s ease-in-out;
 	}
@@ -686,7 +716,7 @@ details a:hover {
 }
 
 @media(max-width: 34.375em) {
-	section details {
+	section span {
 		width: 100%;
 		transition: 0.3s ease-in-out;
 		font-size: 1.1em;
